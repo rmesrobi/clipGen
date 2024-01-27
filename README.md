@@ -5,9 +5,7 @@ This project focuses on extracting meaningful information from long-form videos 
 
 Once topics are identified, they are labeled using the OpenAI Chat Completion API, ensuring human-readable labels. The project further analyzes these topics, extracting closely related segments of the transcript using sklearn, and then creating corresponding shorter video clips or trailers. Dynamic topic information is then visualized onto each frame using OpenCV.
 
-This project showcases a blend of skills in data engineering, prompt engineering, software engineering, and data science. The modular design of the codebase allows for flexibility in application, with potential for adaptation to other NLP tasks like summarization 
-
-This project showcases a blend of skills in data engineering, data science, prompt engineering, and software engineering, demonstrating creativity and technical proficiency. The modular design of the codebase allows for flexibility in application, ranging from podcast videos to business meetings, with potential for adaptation to other NLP tasks like classification, summarization, and question answering.
+This project showcases a blend of skills in data engineering, prompt engineering, and data science. The modular design of the codebase allows for flexibility in application, with potential for adaptation to other NLP tasks like classification, summarization, and question answering.
 
 ## Key Features
 - **Transcription of Videos**: Utilizing OpenAI's speech recognition model for accurate video transcriptions.
