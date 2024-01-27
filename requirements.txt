@@ -1,0 +1,15 @@
+ffmpeg
+imageio-ffmpeg
+bertopic
+scikit-learn
+sentence-transformers
+umap-learn
+hdbscan
+openai
+openai-whisper
+pydub
+tiktoken
+opencv-python
+nltk
+ipython
+moviepy
