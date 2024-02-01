@@ -26,10 +26,11 @@ This project showcases a blend of skills in data engineering, prompt engineering
 - pydub
 
 ## Installation and Running Instructions
-- Create a virtual environment and install requirements.txt
-- Add a video to the video-files directory
-- Update the configurations in config.conf
-- Run main.py
+- Create a virtual environment and install `requirements.txt`
+- Add a video to the `video-files` directory
+- Update the configurations in `config.conf`
+- Update the prompts in `prompts.py`
+- Run `python3 main.py`
 Note: This code requires `ffmpeg` to be installed. Recommended installation is with `brew install ffmpeg`
 
 
